@@ -1,5 +1,4 @@
 npm install
-
 npm install @react-navigation/native
 npm install react-native-screens react-native-safe-area-context
 npm install @react-navigation/native-stack
@@ -14,3 +13,13 @@ npm install expo
 npx expo start
     npx expo start --android
 a
+
+
+npm remove @react-navigation/native @react-navigation/native-stack
+
+npm install @react-navigation/native@^6 \
+            @react-navigation/native-stack@^6
+
+npm install react-native-screens react-native-safe-area-context
+
+npx expo start -c
