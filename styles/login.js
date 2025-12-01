@@ -7,11 +7,13 @@ export const styles = StyleSheet.create({
     alignItems: "center",
     padding: 20
   },
+  
   title: {
     fontSize: 22,
     fontWeight: "bold",
     marginBottom: 20
   },
+  
   input: {
     width: "80%",
     borderWidth: 1,
@@ -20,6 +22,7 @@ export const styles = StyleSheet.create({
     marginTop: 10,
     borderRadius: 8
   },
+  
   button: {
     width: "80%",
     backgroundColor: "#28a745",
@@ -27,11 +30,13 @@ export const styles = StyleSheet.create({
     borderRadius: 8,
     marginTop: 20
   },
+  
   buttonText: {
     color: "#fff",
     textAlign: "center",
     fontWeight: "bold"
   },
+  
   back: {
     marginTop: 20,
     color: "#007bff"
