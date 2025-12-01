@@ -13,6 +13,7 @@ export const styles = StyleSheet.create({
     fontWeight: "bold",
     marginBottom: 20
   },
+  
   button: {
     width: "80%",
     backgroundColor: "#007bff",
@@ -24,5 +25,6 @@ export const styles = StyleSheet.create({
     color: "#fff",
     textAlign: "center",
     fontWeight: "bold"
+    
   }
 });
