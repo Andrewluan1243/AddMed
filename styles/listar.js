@@ -6,12 +6,15 @@ export const styles = StyleSheet.create({
     padding: 20,
     backgroundColor: "#fff"
   },
+  
   title: {
     fontSize: 22,
     fontWeight: "bold",
+    
     textAlign: "center",
     marginBottom: 20
   },
+  
   card: {
     padding: 15,
     backgroundColor: "#f8f9fa",
@@ -20,6 +23,7 @@ export const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: "#ddd"
   },
+  
   back: {
     marginTop: 20,
     textAlign: "center",
