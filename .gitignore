@@ -3,6 +3,7 @@
 # dependencies
 node_modules/
 
+
 # Expo
 .expo/
 dist/
@@ -18,13 +19,16 @@ expo-env.d.ts
 *.key
 *.mobileprovision
 
+
 # Metro
 .metro-health-check*
+
 
 # debug
 npm-debug.*
 yarn-debug.*
 yarn-error.*
+
 
 # macOS
 .DS_Store
